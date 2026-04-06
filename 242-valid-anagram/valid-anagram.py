@@ -16,8 +16,5 @@ class Solution:
             else:
                 dt[t[i]]=1  
 
-        if ds==dt:
-            return True
-        else:
-            return False
+        return ds==dt
 
