@@ -8,13 +8,12 @@ class Solution:
         for i in range(len(s)):
             if s[i] in ds:
                 ds[s[i]]+=1
-            elif not s[i] in ds:
+            else:
                 ds[s[i]]=1
-
-        for i in range(len(t)):            
+           
             if t[i] in dt:
                 dt[t[i]]+=1            
-            elif not t[i] in dt:
+            else:
                 dt[t[i]]=1  
 
         if ds==dt:
