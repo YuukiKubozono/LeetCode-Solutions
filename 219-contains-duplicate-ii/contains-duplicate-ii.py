@@ -2,12 +2,8 @@ class Solution:
     def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
         d = {}
         for i in range(len(nums)):
-            if not nums[i] in d:
-                d[nums[i]] = i
-            else:
-                if i - d[nums[i]] <= k:
-                    return True
-                else:
-                    d[nums[i]] = i
+            if nums[i] in d and i - d[nums[i]] <= k:
+                return True
+            d[nums[i]] = i
         
         return False
