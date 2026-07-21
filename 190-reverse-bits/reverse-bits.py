@@ -8,9 +8,9 @@ class Solution:
             else:
                 k.append(1)
             num = num // 2
-        k.reverse()
+        
         ans = 0
         for j in range(len(k)):
-            ans += k[j] * 2 ** (j)
+            ans += k[j] * 2 ** (len(k) - 1 - j)
 
         return ans
