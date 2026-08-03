@@ -1,14 +1,9 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        half = n // 2
-        ans = 0
-        for i in range(half + 1):
-            mid = i // 2
+        if n<= 2:
+            return n
+        a, b = 1, 2
+        for _ in range(3, n+1):
+            a, b = b, a + b
             
-            mat = 1
-            for j in range(1, i + 1):
-                mat *= (n - i - j + 1) / j
-            
-            ans += mat
-            ans = int(ans)
-        return ans
+        return b
