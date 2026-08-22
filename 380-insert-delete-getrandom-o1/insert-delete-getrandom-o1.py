@@ -1,3 +1,5 @@
+import random
+
 class RandomizedSet:
 
     def __init__(self):
@@ -25,7 +27,6 @@ class RandomizedSet:
             return True
 
     def getRandom(self) -> int:
-        import random
         return random.choice(self.val)
 
 
