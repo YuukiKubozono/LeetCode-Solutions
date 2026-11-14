@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0289-game-of-life](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0289-game-of-life/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -15,6 +16,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0289-game-of-life](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0289-game-of-life/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -27,4 +29,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0289-game-of-life](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0289-game-of-life/) | Medium |
 <!---LeetCode Topics End-->
