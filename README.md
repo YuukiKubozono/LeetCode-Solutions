@@ -7,6 +7,7 @@
 | [0048-rotate-image](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
+| [0057-insert-interval](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
