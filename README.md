@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0274-h-index](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -54,4 +56,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
