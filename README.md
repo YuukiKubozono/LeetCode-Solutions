@@ -33,6 +33,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0049-group-anagrams](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Hash Table
