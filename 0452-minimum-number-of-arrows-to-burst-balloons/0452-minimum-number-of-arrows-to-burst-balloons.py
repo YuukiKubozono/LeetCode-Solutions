@@ -1,14 +1,10 @@
 class Solution:
     def findMinArrowShots(self, points: list[list[int]]) -> int:
-        points.sort()
-        interval = points[0]
-        start = 0
-        end = 1
+        points.sort(key=lambda p:p[1])
+        arrow = points[0][1]
         shot = 1
-        for point in points:
-            if point[start] <= interval[end]:
-                interval = [max(interval[start], point[start]), min(interval[end], point[end])]
-            else:
-                interval = point
+        for start, end in points:
+            if arrow < start:
+                arrow = end
                 shot += 1
         return shot
