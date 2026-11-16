@@ -36,6 +36,7 @@
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0006-zigzag-conversion/) | Medium |
 | [0049-group-anagrams](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0071-simplify-path](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -79,4 +80,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0071-simplify-path](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
 <!---LeetCode Topics End-->
