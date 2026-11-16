@@ -14,6 +14,7 @@
 | [0274-h-index](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0289-game-of-life](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -53,6 +54,7 @@
 | [0049-group-anagrams](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0274-h-index](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,4 +75,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 <!---LeetCode Topics End-->
