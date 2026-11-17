@@ -71,6 +71,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
@@ -84,4 +85,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0071-simplify-path](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0071-simplify-path/) | Medium |
+| [0155-min-stack](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 <!---LeetCode Topics End-->
