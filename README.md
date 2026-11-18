@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0048-rotate-image](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -34,6 +35,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0151-reverse-words-in-a-string/) | Medium |
 ## String
@@ -57,6 +59,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0274-h-index](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
