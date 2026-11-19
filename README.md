@@ -51,6 +51,7 @@
 | [0049-group-anagrams](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -100,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0138-copy-list-with-random-pointer](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
