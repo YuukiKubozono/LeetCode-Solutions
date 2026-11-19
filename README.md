@@ -101,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0092-reverse-linked-list-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
