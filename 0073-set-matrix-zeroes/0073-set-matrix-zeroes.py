@@ -12,11 +12,11 @@ class Solution:
                 if matrix[i][j] == 0:
                     row.add(i)
                     column.add(j)
-        
-        for x in row:
-            matrix[x] = [0] * n
 
-        for y in column:
-            for k in range(m):
-                matrix[k][y] = 0
+        for r in row:
+            matrix[r] = [0] * n
+        
+        for c in column:
+            for i in range(m):
+                matrix[i][c] = 0
         
