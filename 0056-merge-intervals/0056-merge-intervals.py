@@ -5,9 +5,8 @@ class Solution:
         intervals.sort()
         ans = [intervals[0]]
         for i in range(1, len(intervals)):
-            if intervals[i][start] <= ans[-1][end]:
-                ans[-1][start] = min(ans[-1][start], intervals[i][start])
-                ans[-1][end] = max(ans[-1][end], intervals[i][end])
+            if ans[-1][end] < intervals[i][start]:
+                ans.append(intervals[i])
             else:
-                ans.append([intervals[i][start], intervals[i][end]])
+                ans[-1] = [ans[-1][start], max(ans[-1][end], intervals[i][end])]
         return ans
