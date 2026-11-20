@@ -1,15 +1,16 @@
 class Solution:
     def groupAnagrams(self, strs: list[str]) -> list[list[str]]:
-        groups = {}
-        sub = strs.copy()
-        for i in range(len(sub)):
-            sub[i] = "".join(sorted(sub[i]))
         
-        for i, x in enumerate(sub):
-            if x not in groups:
-                groups[x] = [strs[i]]
+        ans = {}
+        dummy = strs.copy()
+
+        for i in range(len(dummy)):
+            dummy[i] = "".join(sorted(dummy[i]))
+
+        for i in range(len(dummy)):
+            if dummy[i] in ans:
+                ans[dummy[i]].append(strs[i])
             else:
-                groups[x].append(strs[i])
+                ans[dummy[i]] = [strs[i]]
+        return list(ans.values())
         
-        ans = list(groups.values())
-        return ans
