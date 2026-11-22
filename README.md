@@ -56,6 +56,7 @@
 | [0073-set-matrix-zeroes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0146-lru-cache](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -84,6 +85,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0146-lru-cache](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
@@ -111,8 +113,13 @@
 | [0086-partition-list](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0086-partition-list/) | Medium |
 | [0092-reverse-linked-list-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0138-copy-list-with-random-pointer](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
+| [0146-lru-cache](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Doubly-Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0146-lru-cache](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 <!---LeetCode Topics End-->
