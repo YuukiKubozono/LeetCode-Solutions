@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
+| [0036-valid-sudoku](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -29,6 +30,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0048-rotate-image](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0289-game-of-life](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0289-game-of-life/) | Medium |
@@ -53,6 +55,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0036-valid-sudoku](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
 | [0049-group-anagrams](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
