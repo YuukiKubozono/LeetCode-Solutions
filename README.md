@@ -14,6 +14,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0274-h-index](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0289-game-of-life](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0289-game-of-life/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
@@ -122,4 +123,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
