@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0015-3sum/) | Medium |
 | [0036-valid-sudoku](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0036-valid-sudoku/) | Medium |
+| [0045-jump-game-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0048-rotate-image](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -100,6 +101,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0045-jump-game-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
@@ -138,4 +140,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0045-jump-game-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0045-jump-game-ii/) | Medium |
 <!---LeetCode Topics End-->
