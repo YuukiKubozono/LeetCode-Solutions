@@ -9,16 +9,14 @@ class Solution:
         """
         Do not return anything, modify root in-place instead.
         """
-        def put_in(node, new):
-            store = node.right
-            tail = new
-            while tail.right:
-                tail = tail.right
-            node.right = new
-            tail.right = store
+        self.prev = None
+
+        def dfs(node):
+            if not node:
+                return
+            dfs(node.right)
+            dfs(node.left)
+            node.right = self.prev
             node.left = None
-        cur = root
-        while cur:
-            while cur.left:
-                put_in(cur, cur.left)
-            cur = cur.right
+            self.prev = node
+        dfs(root)
