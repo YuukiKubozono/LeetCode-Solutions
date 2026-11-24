@@ -1,33 +1,18 @@
 class Solution:
     def evalRPN(self, tokens: list[str]) -> int:
-        dummy = []
-        prefix = 0
-        suffix = 0
+        stack = []
         for x in tokens:
-            if x == "+":
-                suffix = dummy[-1]
-                dummy.pop()
-                prefix = dummy[-1]
-                dummy.pop()
-                dummy.append(prefix + suffix)
-            elif x == "-":
-                suffix = dummy[-1]
-                dummy.pop()
-                prefix = dummy[-1]
-                dummy.pop()
-                dummy.append(prefix - suffix)
-            elif x == "*":
-                suffix = dummy[-1]
-                dummy.pop()
-                prefix = dummy[-1]
-                dummy.pop()
-                dummy.append(prefix * suffix)
-            elif x == "/":
-                suffix = dummy[-1]
-                dummy.pop()
-                prefix = dummy[-1]
-                dummy.pop()
-                dummy.append(int(prefix / suffix))
+            if x == "+" or x == "-" or x == "*" or x == "/":
+                b = stack.pop()
+                a = stack.pop()
+                if x == "+":
+                    stack.append(a + b)
+                elif x == "-":
+                    stack.append(a - b)
+                elif x == "*":
+                    stack.append(a * b)
+                elif x == "/":
+                    stack.append(int(a / b))
             else:
-                dummy.append(int(x))
-        return dummy[-1]
+                stack.append(int(x))
+        return stack[-1]
