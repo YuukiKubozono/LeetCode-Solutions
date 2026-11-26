@@ -7,23 +7,21 @@
 class BSTIterator:
 
     def __init__(self, root: TreeNode | None):
-        self.values = []
-        self.inorder(root)
-        self.i = -1
+        self.stack = []
+        self.push_left(root)
 
-    def inorder(self, node):
-        if node is None:
-            return
-        self.inorder(node.left)
-        self.values.append(node.val)
-        self.inorder(node.right)
+    def push_left(self, node):
+        while node:
+            self.stack.append(node)
+            node = node.left
 
     def next(self) -> int:
-        self.i += 1
-        return self.values[self.i]
+        node = self.stack.pop()
+        self.push_left(node.right)
+        return node.val
 
     def hasNext(self) -> bool:
-        return self.i + 1 < len(self.values)
+        return len(self.stack) > 0
 
 
 # Your BSTIterator object will be instantiated and called as such:
