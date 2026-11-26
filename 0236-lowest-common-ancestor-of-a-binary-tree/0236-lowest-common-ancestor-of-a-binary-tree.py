@@ -7,29 +7,14 @@
 
 class Solution:
     def lowestCommonAncestor(self, root: 'TreeNode', p: 'TreeNode', q: 'TreeNode') -> 'TreeNode':
-
-        def finder(node, goal, path):
-            if not node:
-                return False
-            path.append(node)
-            if node == goal:
-                return True
-            if finder(node.left, goal, path):
-                return True
-            if finder(node.right, goal, path):
-                return True
-            path.pop()
-            return False
-
-        path_p = []
-        finder(root, p, path_p)
-        path_q = []
-        finder(root, q, path_q)
-
-        ans = root
-        for i in range(min(len(path_p), len(path_q))):
-            if path_p[i] != path_q[i]:
-                break
-            ans = path_p[i]
-
-        return ans
+        if root is None:
+            return None
+        if root == p or root == q:
+            return root
+        left = self.lowestCommonAncestor(root.left, p, q)
+        right = self.lowestCommonAncestor(root.right, p, q)
+        if left and right:
+            return root
+        if left:
+            return left
+        return right
