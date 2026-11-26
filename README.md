@@ -96,6 +96,7 @@
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Randomized
 | Problem Name | Difficulty |
@@ -114,6 +115,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0155-min-stack](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0155-min-stack/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -163,6 +165,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -172,6 +175,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0106-construct-binary-tree-from-inorder-and-postorder-traversal/) | Medium |
 | [0112-path-sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
+| [0173-binary-search-tree-iterator](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -193,4 +197,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Iterator
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
 <!---LeetCode Topics End-->
