@@ -141,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +169,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -179,6 +181,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -210,4 +213,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 <!---LeetCode Topics End-->
