@@ -9,15 +9,15 @@ class Solution:
         self.d = {}
         for i in range(len(inorder)):
             self.d[inorder[i]] = i
-        self.pre_id = 0
+        self.id = 0
 
         def build(left, right):
             if left > right:
                 return
-            root = TreeNode(preorder[self.pre_id])
-            self.pre_id += 1
+            root = TreeNode(preorder[self.id])
             mid = self.d[root.val]
-            root.left = build(left, mid -1)
+            self.id += 1
+            root.left = build(left, mid - 1)    
             root.right = build(mid + 1, right)
             return root
         return build(0, len(preorder) - 1)
