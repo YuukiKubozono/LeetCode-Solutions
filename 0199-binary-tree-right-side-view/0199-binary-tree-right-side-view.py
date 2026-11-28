@@ -9,17 +9,14 @@ class Solution:
     def rightSideView(self, root: TreeNode | None) -> list[int]:
         ans = []
         
-        if not root:
-            return ans
-        self.q = deque([root])
-        while self.q:
-            size = len(self.q)
-            for i in range(size):
-                root = self.q.popleft()
-                if root.left:
-                    self.q.append(root.left)
-                if root.right:
-                    self.q.append(root.right)
-                if i == size - 1:
-                    ans.append(root.val)
+        def dfs(node, depth):
+            if not node:
+                return
+            if depth == len(ans):
+                ans.append(node.val)
+            if node.right:
+                dfs(node.right, depth + 1)
+            if node.left:
+                dfs(node.left, depth + 1)
+        dfs(root, 0)
         return ans
