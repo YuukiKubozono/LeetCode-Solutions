@@ -169,6 +169,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Binary Tree
@@ -181,6 +182,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0222-count-complete-tree-nodes](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0222-count-complete-tree-nodes/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Depth-First Search
@@ -190,6 +192,7 @@
 | [0112-path-sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -197,6 +200,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0112-path-sum/) | Easy |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0117-populating-next-right-pointers-in-each-node-ii/) | Medium |
+| [0199-binary-tree-right-side-view](https://github.com/YuukiKubozono/LeetCode-Solutions/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Binary Lifting
 | Problem Name | Difficulty |
 | ------- | ------- |
